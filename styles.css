@@ -1,0 +1,94 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  margin: 0px;
+  font-family: "Roboto",sans-serif;
+}
+*{
+  margin: 0;
+  padding: auto;
+  box-sizing: border-box;
+}
+.cointerDescForm{
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 3%;
+}
+.form{
+  padding: 30px;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Segoe UI';
+
+}
+.desp{
+  width: 500px;
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 22px;
+  border: 2px solid #CBCBCB;
+  font-family: 'Segoe UI';
+  font-size: 15px;
+  color:grey;
+}
+.desp-t{
+  width: 100%;
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 22px;
+  border: 2px solid #CBCBCB;
+  font-family: 'Segoe UI';
+  font-size: 15px;
+}
+.tx-t{
+  width: 100%;
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 22px;
+  border: 2px solid #CBCBCB;
+  font-family: 'Segoe UI';
+  font-size: 15px;
+}
+.tx{
+  font-family: 'Segoe UI';
+  font-size: 15px;
+  color: #2680EB;
+  text-align: center;
+  font-size: 20px;
+}
+.tx-edit{
+  width: 500px;
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 22px;
+  border: 2px solid #CBCBCB;
+  font-family: 'Segoe UI';
+  font-size: 15px;
+}
+.boton{
+  width: 500px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 22px;
+  border: 2px solid #CBCBCB;
+  font-family: 'Segoe UI';
+  font-size: 20px;
+}
+.boton:hover{
+  width: 500px;
+  background-color: rgb(134, 182, 209);
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 22px;
+  border: 2px solid #000000;
+  font-family: 'Segoe UI';
+  font-size: 20px;
+  box-shadow:2px 2px 2px 2px rgb(197, 197, 197);
+  cursor:pointer;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
